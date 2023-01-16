@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>who am i -Eldhose Ben </title>
+</head>
+<body>
+    <main>
+    <nav>
+        <ul>
+            <li>
+                <a href="./index.html">Home</a>
+            </li>
+            <li>
+                <a href="./about.html">About</a>
+            </li>
+        </ul>
+    </nav>
+    <header>
+        <h1> Who am i - Eldhose Ben</h1>
+    </header>
+    <section>
+        <img src="aus.jpg" alt="Aus">
+        <p>
+            The Great Barrier Reef is the world's largest coral reef system[1
+            composed of over 2,900 individual reefs[3] and 900 islands stretching
+             for over 2,300 kilometres (1,400 mi) over an area of approximately 344,400 square kilometres (133,000 sq mi)
+        </p>
+        <style>
+            *{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+        </style>
+        <style>
+            {}
+        </style>
+
+    </section>
+    </main>
+    
+</body>
+</html>
